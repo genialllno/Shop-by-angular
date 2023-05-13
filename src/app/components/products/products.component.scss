@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.mat-card {
+    background-color: rgba($color: #ffffff, $alpha: 1.0);
+    color: black;
+    margin: 5px 10px;
+}
+
+.button {
+    margin-left: 5px;
+}
+
+.img {
+    max-width: 400px;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }

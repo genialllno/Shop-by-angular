@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone",
+      "price": "",
+      "year": "",
+      "image": "assets/images/image.jpg",
+      "configure": {
+        "chip": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "asdasd",
+      "price": "",
+      "year": "",
+      "image": "assets/images/image.jpg",
+      "configure": {
+        "chip": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "dfsк65гншгншгншгщнщшг",
+      "price": "",
+      "year": "",
+      "image": "assets/images/image.jpg",
+      "configure": {
+        "chip": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "1111111",
+      "price": "",
+      "year": "",
+      "image": "assets/images/image.jpg",
+      "configure": {
+        "chip": "",
+        "memory": "",
+        "display": "цц"
+      }
+    }
+  ],
+  "basket": []
+}
